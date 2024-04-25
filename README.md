@@ -57,8 +57,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 [Download Airbnb Dataset](https://github.com/SantanuDutta1/Airbnb-Data-Analysis-using-Python/blob/main/Airbnb%20NYC%202019%20Dataset.csv)
 
 ## Project Link
-[Airbnb Price Analysis By Santanu Dutta](https://github.com/SantanuDutta1/Airbnb-Data-Analysis-using-Python/blob/main/AIEBNB_ANALYSIS(EDA).ipynb)
-
+[Airbnb Price Analysis By Ajaj ](https://github.com/Ajaj583/Airbnb-Price-Analysis-using-Python/blob/main/AIEBNB_ANALYSIS(EDA).ipynb)
 ## Authors
 
 - [@Ajaj583](https://github.com/Ajaj583)
